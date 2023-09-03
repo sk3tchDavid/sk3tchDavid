@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sk3tchdavid&label=Profile%20views&color=0e75b6&style=flat" alt="sk3tchdavid" /> </p>
 
 - 🌱 I’m currently learning **Java, C**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
