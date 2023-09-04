@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm David, a 15-year-old with a passion for technology.<br><br>🎓 12th grader learning Java in school<br>💻 Interested in HTML/CSS/JS and C<br>🖥️ Anything related to computers fascinates me
+Hey, I'm David, a 15-year-old with a passion for technology.<br><br>🎓 12th grader learning Java in school<br>💻 Interested in HTML/CSS/JS, Java and AWS<br>🖥️ Anything related to computers fascinates me
 <br />
 <br />
 # 💻 Tech Stack:
