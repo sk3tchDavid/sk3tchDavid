@@ -7,7 +7,7 @@ Hey, I'm David, a 16-year-old with a passion for technology.<br><br>🎓 12th gr
 <br /><br />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sk3tchdavid&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sk3tchdavid&theme=github_dark&utcOffset=2) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sk3tchdavid&theme=github_dark) 
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sk3tchdavid&theme=github_dark) -->
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sk3tchdavid&label=Profile%20views&color=800080&style=flat" alt="sk3tchdavid" /> </p>
