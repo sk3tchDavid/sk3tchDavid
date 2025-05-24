@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm David, a 16-year-old with a passion for technology.<br><br>🎓 12th grader learning Java in school<br>💻 Interested in Mathematics and Computer Science<br>🖥️ Anything related to computers fascinates me
+Hey, I'm David, a 17-year-old with a passion for technology.<br><br>💻 Interested in Mathematics and Computer Science<br>🖥️ Anything related to computers fascinates me
 <br />
 <br />
 # 💻 Regularly working with:
